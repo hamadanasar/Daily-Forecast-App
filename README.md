@@ -9,7 +9,7 @@ Kotlin Coroutines - Retrofit - MVVM - Room - Navigation Component - Repository
 
 
 
-* get forecast weather of city name and every 3 hours 
+* get forecast weather of city name and forecast weather for every 3 hours 
 <p align="center">
   <img width="200" height="400" src="https://user-images.githubusercontent.com/55391701/131236728-893ba01c-492d-42c0-8bf6-2146bdf2eedb.png">
 </p>
