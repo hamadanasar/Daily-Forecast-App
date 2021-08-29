@@ -4,13 +4,15 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <string name="enter_city_name">Enter city name</string>
+    <string name="please_enter_city_name">Please enter city name</string>
 
     <string name="not_accurate_data">Not accurate data</string>
 
-    <string name="loading">Loading…</string>
     <string name="today">Today</string>
     <string name="forecast_weather_of_all_3_hours">Forecast weather for every 3 hours</string>
     <string name="required_field">required field</string>
-    <string name="please_enter_city_name">Please enter city name</string>
+
+    <string name="sorry_error">Sorry Error</string>
+    <string name="retry">Retry</string>
 
 </resources>

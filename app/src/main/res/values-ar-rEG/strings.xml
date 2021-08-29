@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily Forecast App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Strings of Home Fragment -->
+    <string name="enter_city_name">أدخل اسم المدينة</string>
+    <string name="please_enter_city_name">الرجاء إدخال اسم المدينة</string>
+    <string name="not_accurate_data">بيانات غير دقيقة</string>
+    <string name="required_field">الحقل مطلوب</string>
+
+    <!-- Strings of WeatherItemFragment-->
+    <string name="today">اليوم</string>
+    <string name="forecast_weather_of_all_3_hours">توقعات الطقس كل 3 ساعات</string>
+
+    <string name="sorry_error">خطأ آسف</string>
+    <string name="retry">إعادة المحاولة</string>
+
+</resources>

@@ -85,7 +85,7 @@ class WeatherItemFragment : Fragment() {
                         initRecycler(it.getData()!!)
                     } else {
                         (requireActivity() as MainActivity?)!!.hideProgressBar()
-                        showSnackBar(requireView(), "Sorry Error", "Retry") {
+                        showSnackBar(requireView(), getString(R.string.sorry_error), getString(R.string.retry)) {
                             (requireActivity() as MainActivity?)!!.showProgressBar()
                             viewModel.getDailyForecast(cityName)
                         }
