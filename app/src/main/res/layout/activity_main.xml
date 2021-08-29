@@ -14,7 +14,7 @@
         android:layout_marginTop="56dp"
         android:gravity="center"
         android:padding="10dp"
-        android:visibility="visible"
+        android:visibility="gone"
         android:background="@color/purple_500"
         android:text="@string/not_accurate_data"
         android:textColor="@color/black"

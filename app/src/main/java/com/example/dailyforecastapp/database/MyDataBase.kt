@@ -8,7 +8,7 @@ import androidx.room.TypeConverters
 import com.example.dailyforecastapp.database.Dao.ForecastDao
 import com.example.dailyforecastapp.model.WeatherResults
 
-@Database(entities = [WeatherResults::class], version = 3, exportSchema = false)
+@Database(entities = [WeatherResults::class], version = 5, exportSchema = false)
 @TypeConverters(Converter::class)
 abstract class MyDataBase : RoomDatabase() {
 
